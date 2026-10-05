@@ -1,0 +1,2 @@
+# Este projeto é um plugin WordPress em PHP e não possui dependências Python.
+# O arquivo existe para deixar essa ausência explícita para ferramentas de automação.
